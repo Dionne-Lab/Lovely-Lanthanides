@@ -1,0 +1,552 @@
+﻿<div class="rtable__wrapper"><div class="rtable__inner" style="min-width: 806px;"><table class="tgroup rtable" border="0"><colgroup><col><col><col><col><col><col><col><col></colgroup>
+              
+              
+              
+              
+              
+              
+              
+              
+              <thead align="left">
+                <tr align="left" valign="bottom">
+                  <th align="left" valign="bottom" class="border_black">Ln</th>
+                  <th align="left" valign="bottom" class="border_black">Ground state</th>
+                  <th align="left" valign="bottom" class="border_black">Excited state</th>
+                  <th align="left" valign="bottom" class="border_black">Final state</th>
+                  <th align="left" valign="bottom" class="border_black">Emission wavelength (nm)</th>
+                  <th align="left" valign="bottom" class="border_black">Energy (cm<small><sup>−1</sup></small>)</th>
+                  <th align="left" valign="bottom" class="border_black">Intensity</th>
+                  <th align="left" valign="bottom" class="border_black">Remarks</th>
+                </tr>
+              </thead>
+              <tbody align="left">
+                <tr align="left">
+                  <td rowspan="8" valign="top">Pr</td>
+                  <td rowspan="8" valign="top">
+                    <small><sup>3</sup></small>H<small><sub>4</sub></small></td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>P<small><sub>2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>4</sub></small></td>
+                  <td valign="top">440</td>
+                  <td valign="top">22<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">727</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td rowspan="2" valign="top">
+                    <small><sup>3</sup></small>P<small><sub>1</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>4</sub></small></td>
+                  <td valign="top">470</td>
+                  <td valign="top">21<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">277</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>1</sup></small>G<small><sub>4</sub></small></td>
+                  <td valign="top">872</td>
+                  <td valign="top">11<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">468</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>3</sup></small>P<small><sub>0</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>4</sub></small></td>
+                  <td valign="top">480</td>
+                  <td valign="top">20<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">833</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>5</sub></small></td>
+                  <td valign="top">545</td>
+                  <td valign="top">18<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">349</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>6</sub></small></td>
+                  <td valign="top">606</td>
+                  <td valign="top">16<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">502</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>F<small><sub>2</sub></small></td>
+                  <td valign="top">640</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">625</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>1</sup></small>D<small><sub>2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>F<small><sub>4</sub></small></td>
+                  <td valign="top">1037</td>
+                  <td valign="top">9643</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td rowspan="10" valign="top">Nd</td>
+                  <td rowspan="10" valign="top">
+                    <small><sup>4</sup></small>I<small><sub>9/2</sub></small></td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>D<small><sub>3/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>9/2</sub></small></td>
+                  <td valign="top">355</td>
+                  <td valign="top">28<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">169</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>2</sup></small>P<small><sub>3/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>9/2</sub></small></td>
+                  <td valign="top">380</td>
+                  <td valign="top">26<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">316</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>11/2</sub></small></td>
+                  <td valign="top">410</td>
+                  <td valign="top">24<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">390</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>13/2</sub></small></td>
+                  <td valign="top">452</td>
+                  <td valign="top">22<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">124</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>4</sup></small>G<small><sub>7/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>9/2</sub></small></td>
+                  <td valign="top">545</td>
+                  <td valign="top">18<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">349</td>
+                  <td valign="top">Weak to strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>11/2</sub></small></td>
+                  <td valign="top">587</td>
+                  <td valign="top">17<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">036</td>
+                  <td valign="top">Weak to strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>13/2</sub></small></td>
+                  <td valign="top">655</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">267</td>
+                  <td valign="top">Weak to strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>4</sup></small>F<small><sub>3/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>9/2</sub></small></td>
+                  <td valign="top">886</td>
+                  <td valign="top">11<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">287</td>
+                  <td valign="top">Weak to strong</td>
+                  <td valign="top">QC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>11/2</sub></small></td>
+                  <td valign="top">1064</td>
+                  <td valign="top">9399</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">QC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>13/2</sub></small></td>
+                  <td valign="top">1340</td>
+                  <td valign="top">7463</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">QC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td rowspan="3" valign="top">Sm</td>
+                  <td rowspan="3" valign="top">
+                    <small><sup>6</sup></small>H<small><sub>5/2</sub></small></td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>G<small><sub>5/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>6</sup></small>H<small><sub>5/2</sub></small></td>
+                  <td valign="top">564</td>
+                  <td valign="top">17<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">730</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>6</sup></small>H<small><sub>7/2</sub></small></td>
+                  <td valign="top">601</td>
+                  <td valign="top">16<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">639</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>6</sup></small>H<small><sub>9/2</sub></small></td>
+                  <td valign="top">644</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">528</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">Eu</td>
+                  <td valign="top">
+                    <small><sup>7</sup></small>F<small><sub>0</sub></small></td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>D<small><sub>0</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>7</sup></small>F<small><sub>0,1,2,3,4</sub></small></td>
+                  <td valign="top">570–720</td>
+                  <td valign="top">13<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">889–17<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">544</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">Tb</td>
+                  <td valign="top">
+                    <small><sup>7</sup></small>F<small><sub>6</sub></small></td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>D<small><sub>4</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>7</sup></small>F<small><sub>6,5,4,3</sub></small></td>
+                  <td valign="top">480–650</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">385–20<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">833</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC, QC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td rowspan="3" valign="top">Dy</td>
+                  <td rowspan="3" valign="top">
+                    <small><sup>6</sup></small>H<small><sub>15/2</sub></small></td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>F<small><sub>9/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>6</sup></small>H<small><sub>15/2</sub></small></td>
+                  <td valign="top">486</td>
+                  <td valign="top">20<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">576</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">QC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>6</sup></small>H<small><sub>13/2</sub></small></td>
+                  <td valign="top">575</td>
+                  <td valign="top">17<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">391</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">QC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>6</sup></small>H<small><sub>11/2</sub></small></td>
+                  <td valign="top">664</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">060</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">QC and DS</td>
+                </tr>
+                <tr align="left">
+                  <td rowspan="6" valign="top">Ho</td>
+                  <td rowspan="6" valign="top">
+                    <small><sup>5</sup></small>I<small><sub>8</sub></small></td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>S<small><sub>2</sub></small>, <small><sup>5</sup></small>F<small><sub>4</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>I<small><sub>8</sub></small></td>
+                  <td valign="top">540</td>
+                  <td valign="top">18<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">519</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>I<small><sub>7</sub></small></td>
+                  <td valign="top">749</td>
+                  <td valign="top">13<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">351</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>I<small><sub>6</sub></small></td>
+                  <td valign="top">1012</td>
+                  <td valign="top">9881</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>5</sup></small>F<small><sub>5</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>I<small><sub>8</sub></small></td>
+                  <td valign="top">644</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">528</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>I<small><sub>7</sub></small></td>
+                  <td valign="top">966</td>
+                  <td valign="top">10<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">352</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>5</sup></small>I<small><sub>6</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>5</sup></small>I<small><sub>8</sub></small></td>
+                  <td valign="top">1180</td>
+                  <td valign="top">8475</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td rowspan="10" valign="top">Er</td>
+                  <td rowspan="10" valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>G<small><sub>11/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">380</td>
+                  <td valign="top">26<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">316</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>2</sup></small>P<small><sub>3/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>13/2</sub></small></td>
+                  <td valign="top">408</td>
+                  <td valign="top">24<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">510</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>11/2</sub></small></td>
+                  <td valign="top">480</td>
+                  <td valign="top">20<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">833</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>2</sup></small>H<small><sub>11/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">525</td>
+                  <td valign="top">19<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">048</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>4</sup></small>S<small><sub>3/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">545</td>
+                  <td valign="top">18<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">349</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>13/2</sub></small></td>
+                  <td valign="top">850</td>
+                  <td valign="top">11<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">765</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>4</sup></small>F<small><sub>9/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">665</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">038</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>9/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">800</td>
+                  <td valign="top">12<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">500</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>11/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">980</td>
+                  <td valign="top">10<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">204</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>13/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>4</sup></small>I<small><sub>15/2</sub></small></td>
+                  <td valign="top">1540</td>
+                  <td valign="top">6494</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td rowspan="7" valign="top">Tm</td>
+                  <td rowspan="7" valign="top">
+                    <small><sup>3</sup></small>H<small><sub>6</sub></small></td>
+                  <td valign="top">
+                    <small><sup>1</sup></small>D<small><sub>2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>6</sub></small></td>
+                  <td valign="top">360</td>
+                  <td valign="top">27<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">778</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>F<small><sub>4</sub></small></td>
+                  <td valign="top">450</td>
+                  <td valign="top">22<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">222</td>
+                  <td valign="top">Medium</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>1</sup></small>G<small><sub>4</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>6</sub></small></td>
+                  <td valign="top">475</td>
+                  <td valign="top">21<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">053</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>F<small><sub>4</sub></small></td>
+                  <td valign="top">650</td>
+                  <td valign="top">15<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">385</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                  </td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>5</sub></small></td>
+                  <td valign="top">786</td>
+                  <td valign="top">12<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">723</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>4</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>6</sub></small></td>
+                  <td valign="top">800</td>
+                  <td valign="top">12<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">500</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC and QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">
+                    <small><sup>3</sup></small>F<small><sub>4</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>3</sup></small>H<small><sub>6</sub></small></td>
+                  <td valign="top">1800</td>
+                  <td valign="top">5556</td>
+                  <td valign="top">Weak</td>
+                  <td valign="top">QC</td>
+                </tr>
+                <tr align="left">
+                  <td valign="top">Yb</td>
+                  <td valign="top">
+                    <small><sup>2</sup></small>F<small><sub>7/2</sub></small></td>
+                  <td valign="top">
+                    <small><sup>2</sup></small>F<small><sub>5/2</sub></small> →</td>
+                  <td valign="top">
+                    <small><sup>2</sup></small>F<small><sub>7/2</sub></small></td>
+                  <td valign="top">980</td>
+                  <td valign="top">10<img class="charmap" src="https://www.rsc.org/images/entities/char_2009.gif" alt="[thin space (1/6-em)]">204</td>
+                  <td valign="top">Strong</td>
+                  <td valign="top">UC, QC and DS</td>
+                </tr>
+              </tbody>
+            </table></div></div>
