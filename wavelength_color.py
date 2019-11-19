@@ -31,7 +31,7 @@
         rod:    550 nm in bright daylight, 498 nm when dark adapted. 
                 Rods adapt to low light conditions by becoming more sensitive.
                 Peak frequency response shifts to 498 nm.
-
+    EDITED BY CHRIS SIEFE TO OUTPUT RGB VALUES ON [0,1] INSTEAD OF [0,255].
 '''
 
 import sys
@@ -84,9 +84,9 @@ def wavelength_to_rgb(wavelength, gamma=0.8):
         R = 0.0
         G = 0.0
         B = 0.0
-    R *= 255
-    G *= 255
-    B *= 255
+    #R *= 255
+    #G *= 255
+    #B *= 255
     return (int(R), int(G), int(B))
 
 
